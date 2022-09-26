@@ -6,3 +6,4 @@ Thanks shalzuth for giving me the idea and ravahn for his amazing machina framew
 
 
 Release ETA: who knows.
+This project will be open-source.
